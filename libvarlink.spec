@@ -1,11 +1,11 @@
 Summary:	C implementation of the varlink protocol and command line tool
 Name:		libvarlink
-Version:	23
+Version:	24
 Release:	1
 License:	Apache v2.0
 Group:		Libraries
 Source0:	https://github.com/varlink/libvarlink/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	f5fb14310ba55a67c1927cef41e759ad
+# Source0-md5:	a6c0b0f0cd8abf3344bc26dc44a64db9
 URL:		http://varlink.org
 BuildRequires:	meson >= 0.40
 BuildRequires:	ninja
